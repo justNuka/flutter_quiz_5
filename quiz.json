@@ -1,0 +1,42 @@
+{
+  "quiz_id": 1,
+  "title": "Quiz de Culture Générale",
+  "questions": [
+    {
+      "id": 1,
+      "label": "Quelle est la capitale de la France ?",
+      "answers": [
+        { "id": 101, "label": "Londres" },
+        { "id": 102, "label": "Berlin" },
+        { "id": 103, "label": "Paris" },
+        { "id": 104, "label": "Madrid" }
+      ],
+      "correct_answer_id": 103,
+      "explanation": "Paris est la capitale de la France depuis 508 après J.-C."
+    },
+    {
+      "id": 2,
+      "label": "Qui a écrit 'Les Misérables' ?",
+      "answers": [
+        { "id": 201, "label": "Victor Hugo" },
+        { "id": 202, "label": "Émile Zola" },
+        { "id": 203, "label": "Gustave Flaubert" },
+        { "id": 204, "label": "Albert Camus" }
+      ],
+      "correct_answer_id": 201,
+      "explanation": "Victor Hugo a écrit 'Les Misérables' en 1862."
+    },
+    {
+      "id": 3,
+      "label": "Combien y a-t-il de continents sur Terre ?",
+      "answers": [
+        { "id": 301, "label": "4" },
+        { "id": 302, "label": "5" },
+        { "id": 303, "label": "6" },
+        { "id": 304, "label": "7" }
+      ],
+      "correct_answer_id": 304,
+      "explanation": "Il y a 7 continents : Afrique, Amérique du Nord, Amérique du Sud, Antarctique, Asie, Europe et Océanie."
+    }
+  ]
+}
