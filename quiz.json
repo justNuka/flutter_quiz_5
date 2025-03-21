@@ -61,6 +61,90 @@
         { "id": 4, "label": "Titane" }
       ],
       "explanation": "Le lithium est le métal le plus léger avec une densité d'environ 0,53 g/cm³."
+    },
+    {
+      "id": 6,
+      "label": "Quelle équipe a remporté la Coupe du Monde de football en 2018 ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "France" },
+        { "id": 2, "label": "Brésil" },
+        { "id": 3, "label": "Allemagne" },
+        { "id": 4, "label": "Argentine" }
+      ],
+      "explanation": "La France a remporté la Coupe du Monde 2018 en battant la Croatie 4-2 en finale."
+    },
+    {
+      "id": 7,
+      "label": "Qui est l’auteur du roman '1984' ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "Aldous Huxley" },
+        { "id": 2, "label": "Fiodor Dostoïevski" },
+        { "id": 3, "label": "George Orwell" },
+        { "id": 4, "label": "Ray Bradbury" }
+      ],
+      "explanation": "George Orwell a écrit '1984', un roman dystopique publié en 1949."
+    },
+    {
+      "id": 8,
+      "label": "Quel est le symbole chimique de l'or ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Ag" },
+        { "id": 2, "label": "Au" },
+        { "id": 3, "label": "Fe" },
+        { "id": 4, "label": "Hg" }
+      ],
+      "explanation": "Le symbole chimique de l'or est Au, dérivé du latin 'Aurum'."
+    },
+    {
+      "id": 9,
+      "label": "Combien d’os compose le squelette humain adulte ?",
+      "correct_answer_id": 3,
+      "answers": [
+        { "id": 1, "label": "180" },
+        { "id": 2, "label": "256" },
+        { "id": 3, "label": "206" },
+        { "id": 4, "label": "220" }
+      ],
+      "explanation": "Un squelette humain adulte est composé de 206 os."
+    },
+    {
+      "id": 10,
+      "label": "Quel est le plus grand océan du monde ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Océan Pacifique" },
+        { "id": 2, "label": "Océan Atlantique" },
+        { "id": 3, "label": "Océan Indien" },
+        { "id": 4, "label": "Océan Arctique" }
+      ],
+      "explanation": "L'océan Pacifique est le plus grand, couvrant environ 30% de la surface terrestre."
+    },
+    {
+      "id": 11,
+      "label": "Qui a fondé Microsoft ?",
+      "correct_answer_id": 2,
+      "answers": [
+        { "id": 1, "label": "Steve Jobs" },
+        { "id": 2, "label": "Bill Gates et Paul Allen" },
+        { "id": 3, "label": "Elon Musk" },
+        { "id": 4, "label": "Jeff Bezos" }
+      ],
+      "explanation": "Microsoft a été fondé en 1975 par Bill Gates et Paul Allen."
+    },
+    {
+      "id": 12,
+      "label": "Quelle est la langue la plus parlée dans le monde ?",
+      "correct_answer_id": 1,
+      "answers": [
+        { "id": 1, "label": "Le chinois mandarin" },
+        { "id": 2, "label": "L’anglais" },
+        { "id": 3, "label": "L’espagnol" },
+        { "id": 4, "label": "L’hindi" }
+      ],
+      "explanation": "Le chinois mandarin est la langue la plus parlée avec environ 1,1 milliard de locuteurs natifs."
     }
   ]
 }
